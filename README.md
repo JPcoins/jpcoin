@@ -1,0 +1,2 @@
+# jpcoin
+JPcoin - Japan Cryptocurrency
